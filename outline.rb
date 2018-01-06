@@ -6,7 +6,7 @@ How to Build a CLI Gem - Project Outline
   - What type of occassion are you shopping for?
   - What color shoes?
   - What heel height? 
-    
+    ** As you are thinking about how these parts will interact with each other, get something working quickly, by not focusing on the methods needed to display the info, i.e. use puts statements with the info** 
   Ex. display 
     
     Black, heel shoe with bow $750 
